@@ -4711,6 +4711,7 @@ input[type="button"].btn--primary:focus {
     }
 }
 
+}
 a.button1{
  display:inline-block;
  padding:0.35em 1.2em;
@@ -4734,4 +4735,3 @@ a.button1:hover{
   display:block;
   margin:0.4em auto;
  }
-}
