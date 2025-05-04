@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages Pie Chart" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages Pie Chart" width="20%" />
 </p>
 
 ### 🛠️ Tecnologías y herramientas:
