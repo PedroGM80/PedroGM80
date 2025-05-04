@@ -16,11 +16,14 @@
 
 <hr>
 
-### 📊 GitHub Stats:
+### 📊 Estadísticas de GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages Pie Chart" width="20%" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pedro's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages" width="45%" />
+</div>
+
+<hr>
 
 ### 🛠️ Tecnologías y herramientas:
 
@@ -56,6 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
