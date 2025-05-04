@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&theme=radical" alt="Pedro's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&theme=radical" alt="Pedro's GitHub stats" width="100%" />
 </p>
 
 <hr>
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages Pie Chart" width="100%" />
 </p>
 
 <p align="center">
