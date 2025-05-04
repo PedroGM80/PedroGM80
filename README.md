@@ -19,8 +19,8 @@
 ### 📊 Estadísticas de GitHub:
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pedro's GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pedro's GitHub Stats" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGM80&layout=pie&theme=radical&hide=html,css,c,cs" alt="Top Languages" width="45%" />
 </div>
 
 <hr>
