@@ -13,6 +13,14 @@
   </a>
 </p>
 
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&theme=radical" alt="Pedro's GitHub stats"/>
+</p>
+
+
 ---
 
 ### 🛠️ Tecnologías y herramientas:
@@ -38,8 +46,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroGM80&show_icons=true&theme=radical" alt="Pedro's GitHub stats"/>
-</p>
